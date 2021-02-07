@@ -3,23 +3,10 @@ layout: default
 title: About Me
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
-
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
-
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
-
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
-
-> All of your co-workers are fools. You must learn to pity and tolerate them.
-
-> There are very few problems that can't be solved through a suitable application of high explosives.
+Founder of [Metastate](http://metastate.dev), a multi-network R&D company, and [Cryptium Labs](https://cryptium.ch), a Proof-of-Stake validator with strong focus on security. Previously researcher at Cosmos/Tendermint, and software engineer at Chainalysis, specialized in machine learning.
 
 ### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
 
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
+1. "A First Estimation of the Proportion of Cybercriminal Entities in the Bitcoin Ecosystem using Supervised Machine Learning", _2017 IEEE International Conference on Big Data (Big Data)_, [2017](https://ieeexplore.ieee.org/abstract/document/8258365/).
+2. "Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning", _Hawaii International Conference on System Sciences_, [Proceedings of the 51st 2018](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50331/1/paper0444.pdf).
+3. "Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain", _Journal of Management Information Systems_, [Volume 36, 2019 - Issue 1](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550)
