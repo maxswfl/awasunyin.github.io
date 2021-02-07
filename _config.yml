@@ -2,8 +2,8 @@ title: Awa Sun Yin's Website
 author: awa
 subtitle: It takes all the running you can do, to keep in the same place.
 
-url: "https://awasunyin.github.io"
-baseurl: "."
+url: "//awasunyin.github.io"
+baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://github.com/awasunyin"
