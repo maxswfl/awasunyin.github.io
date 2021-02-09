@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-Founder of [Metastate](http://metastate.dev), a multi-network R&D company, and [Cryptium Labs](https://cryptium.ch), a Proof-of-Stake validator with strong focus on security. Previously researcher at Cosmos/Tendermint, and software engineer at Chainalysis, specialized in machine learning.
+Co-founder of [Metastate](http://metastate.dev), an R&D company bridging the gap between cutting-edge research in cryptography, PLT, and distributed systems. Also co-founded [Cryptium Labs](https://cryptium.ch), a Proof-of-Stake validator that went live in summer 2018 with strong focus on security. Previously researcher at Cosmos/Tendermint, and software engineer at Chainalysis, specialized in machine learning.
 
 ### Publications
 
