@@ -75,16 +75,6 @@ text-decoration: none;
 page.title {
     border-bottom: 3px solid var(--maincolor);
 }
-
-a.title:hover{
-    background-color: var(--hovercolor);
-    color: #ffffff;
-}
-
-a.site-title:hover {
-    background-color: var(--hovercolor);
-    color: #ffffff;
-}
       
 a:hover {
     background-color: var(--hovercolor);
