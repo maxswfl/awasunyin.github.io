@@ -86,6 +86,11 @@ a.title:hover{
     color: #ffffff;
 }
 
+a.site-title:hover {
+    background-color: var(--hovercolor);
+    color: #ffffff;
+}
+
 code {
     background-color: #d8e7ff;
     color: #002b72;
