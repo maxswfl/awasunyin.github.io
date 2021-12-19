@@ -1,9 +1,9 @@
 # Building Locally
 
-Clone the repository
-Run bundle install
-Run bundle exec jekyll serve
-Visit browser at http://127.0.0.1:4000
+* Clone the repository
+* Run `bundle install`
+* Run `bundle exec jekyll serve`
+* Visit browser at http://127.0.0.1:4000
 
 # Acknowledgements
 
