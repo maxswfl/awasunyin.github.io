@@ -3,10 +3,10 @@
 ---
 
 :root{
-    --maincolor: #EC4261;
+    --maincolor: #F7312F;
     --bordercl:#114B5F;
     --callouctcolor:dodgerblue;
-    --hovercolor:#dbf6e9;
+    --hovercolor:#000000;
     --darkMaincolor: #50fa7b;
     }
 // Customization Variables
@@ -75,10 +75,20 @@ text-decoration: none;
 page.title {
     border-bottom: 3px solid var(--maincolor);
 }
+
+a.title:hover{
+    background-color: var(--hovercolor);
+    color: #ffffff;
+}
+
+a.site-title:hover {
+    background-color: var(--hovercolor);
+    color: #ffffff;
+}
       
 a:hover {
     background-color: var(--hovercolor);
-    color: #0a043c;
+    color: #ffffff;
     }
 
 code {
