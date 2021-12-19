@@ -81,6 +81,11 @@ a:hover {
     color: #ffffff;
     }
 
+a.title:hover{
+    background-color: var(--hovercolor);
+    color: #ffffff;
+}
+
 code {
     background-color: #d8e7ff;
     color: #002b72;
