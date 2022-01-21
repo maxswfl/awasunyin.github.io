@@ -3,7 +3,15 @@ layout: default
 title: About Me
 ---
 
-Co-founder of [Metastate](http://metastate.dev), an R&D company bridging the gap between cutting-edge research in cryptography, PLT, and distributed systems. Also co-founded [Cryptium Labs](https://cryptium.ch), a Proof-of-Stake validator that went live in summer 2018 with strong focus on security. Previously researcher at Cosmos/Tendermint, and software engineer at Chainalysis, specialized in machine learning.
+![Awa petting a cat in the neighbourhood](/assets/awa-petting-a-cat.gif "Awa petting a cat in the neighbourhood"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+I used to work for surveillance capitalism, now I work on goods for the public.
+
+I like petting cats in the neighbourhood and giving anime recommendations.
+
+### Stuff I did in the past
+
+Co-founded [Metastate](http://metastate.dev), an R&D company bridging the gap between cutting-edge research in cryptography, PLT, and distributed systems. Also co-founded [Cryptium Labs](https://cryptium.ch), a Proof-of-Stake validator that went live in summer 2018 with physical infrastructure. Previously researcher at Cosmos/Tendermint, and software engineer at Chainalysis, specialized in machine learning.
 
 ### Publications
 
