@@ -3,7 +3,7 @@ layout: post
 title: The Web I Want to Use
 subtitle: The web should be a good for the public, not an industry that turns the public into a good. Sadly, the web today is the other way round.
 tags: [web3, privacy]
-largeimage: /assets/web3/0-spectrum-of-control-in-web3.jpeg
+image: /assets/web3/0-spectrum-of-control-in-web3.jpeg
 ---
 
 The web today (some call it Web2) is one that gives its users no control. It is a place that obfuscates the trade-offs that they are unconsciously accepting whenever they interact with it, where the users gain fleeting benefits in the present, while their true costs are shifted into the future. The price is not an amount of a fiat currency, but a loss of one's basic rights as a human. The web today is a place that is weak to the capture by the few, who seek to leverage its deficiencies for their private benefit, sometimes manifested in profits in a balance sheet, other times as enforcement of their political, economic, and arbitrary agendas.
