@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-![Awa petting a cat in the neighbourhood](/assets/awa-petting-a-cat.gif "Awa petting a cat in the neighbourhood"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Awa petting a cat in the neighbourhood](/assets/awa-petting-a-cat.gif "Awa petting a cat in the neighbourhood"){:class="profile-picture"}
 
 I used to work for surveillance capitalism, now I work on goods for the public.
 

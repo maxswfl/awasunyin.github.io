@@ -24,11 +24,14 @@ html {
     font-family: 'Roboto Mono', monospace;
     font-size: 15px;
     line-height: 1.6em;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 0;
   }
+
+  @media (min-width: 650px) {
+    html {
+        margin-top: 6rem;
+    }
+}
 
 body {
     margin: 0;
@@ -36,7 +39,6 @@ body {
     min-height: 100%;
     line-height: 1.5;
     display: block;
-    margin: 8px;
 }
 
 * {
@@ -102,7 +104,6 @@ code {
     margin-left: auto;
     margin-right: auto;
     max-width: 800px;
-    padding: 0 1ch;
     word-wrap: break-word;
   }
   
@@ -187,12 +188,23 @@ footer {
         display: inline-block;
         font-size: 22px;
     }
-    .details{
-        @extend .pull-right;
-        text-align: right;
-        margin-left: 20px;
-        font-size: 15px;
+ 
+br {
+    display:none;
+}
+    @media (min-width: 650px) {
+        br {
+            display: block;
+        }
+        .details{
+            float: right;
+            text-align: right;
+            margin-left: 20px;
+            font-size: 15px;
+        }
     }
+
+    
     .subtitle{
         max-width: 500px;
     }
@@ -210,7 +222,7 @@ footer {
     text-align: center;
     font-size: xx-large;
     font-weight: bold;
-    line-height: 2;
+    line-height: 1.1;
 }
 .page-subtitle{
     text-align: center;
@@ -240,7 +252,7 @@ footer {
 
 @media (max-width: 650px) {
     .container {
-        max-width: 83%;
+        margin: 0 1.5rem;
     }
     .navbar{
         ul{
@@ -253,19 +265,10 @@ footer {
 	.navbar {
 		text-align: center;
         padding: 50px 0px 0px 0px;
-        ul{
-            padding: 10px 0 10px 0;
-            margin: 0;
-            display: block;
+        
+        .pull-right {
             float: none;
-            text-align: center;
-            width: 100%;
-        }
-        li{
             margin: 0;
-        }
-        .pull-left{
-            float: none;
         }
         .site-title{
             width: 100%;
@@ -325,6 +328,7 @@ footer {
         width: 15%;
         margin: 5px 5px 5px 5px;
         float: right;
+        width: 300px;
         p & {
             padding: 0;
             margin: 0;
@@ -335,10 +339,18 @@ footer {
             }
         }
     }
+
+    @media (max-width: $small-width) {
+        .profile-picture {
+            float: none;
+            width: 100%;
+        }
+    }
+
     img {
         text-align: center;
         margin: 10px 10px 10px 10px;
-        max-width: $max-width;
+        max-width: 100%;
     }
 
     .color-red {
